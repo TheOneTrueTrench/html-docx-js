@@ -1,3 +1,7 @@
+## 0.4.1 (Nov 15, 2019)
+
+* Updated package dependency on lodash.merge to 4.6.1
+
 ## 0.3.1 (May 17, 2016)
 
 * Fixed support for embedding images on Microsoft Word for Mac 2016
